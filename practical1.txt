@@ -1,0 +1,19 @@
+<html>
+
+<title>Invitation</title>
+
+<body background="C:\Users\Jaspreet Kaur Saggu\OneDrive\Desktop\jyoti\abc.jpeg">
+
+<h1 align="center"><i><B>Invitation for the Republic Day Celebration</B></i></h1>
+<h3 align="center"><p>Republic Day is the Day<br>When we legally became the <br>pround citizen of India<br>Let's salute the occasion</p></h3>
+<h5 align="center">January 26,2019,10 AM Onwards<h5>
+
+
+
+<h4 align="center"><p>On this occasion of the 70th Republic Day of India, <br>A Flag Hosting Ceremony would be held on Saturday in SB.Jain Institute of Technology and Research. <br> </p></h4>
+<h4 align="center">Shri Dilip kumar will be the chief guest and consented to unfurl the flag. </h4>
+<h3 align="center"><B>All the students and teachers are hereby invited to attend the flag hosting ceremony.</B></h3> 
+
+</body>
+
+</html>
